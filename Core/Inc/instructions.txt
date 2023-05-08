@@ -1,0 +1,6 @@
+0 bit - address
+1 bit - command
+2 bit - command value
+3 bit - command value
+4 bit - CRC high byte
+5 bit - CRC low byte
